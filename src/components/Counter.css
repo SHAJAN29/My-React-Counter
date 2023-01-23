@@ -1,0 +1,20 @@
+.btn{
+
+border: none;
+outline-style: none;
+
+
+}
+.likerr{
+
+    display: flex;
+
+}
+.Like{
+
+    margin: 0 20px;
+}
+.Dislike{
+
+    margin: 0 20px;
+}
